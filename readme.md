@@ -173,6 +173,12 @@ Start all services:
 docker-compose up
 ```
 
+Remove all services:
+
+```bash
+docker-compose down
+```
+
 ---
 
 ## Conclusion
